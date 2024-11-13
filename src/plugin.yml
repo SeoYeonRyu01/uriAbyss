@@ -1,0 +1,11 @@
+name: uriAbyss
+author: UriMagdui
+description: Plugin dodajacy otchlan pozerajaca itemy.
+version: 1.0
+main: pl.urimagdui.abyss.Main
+commands:
+  otchlan:
+      description: Komenda otwierajaca otchlan z itemami.
+      aliases: [abyss, abys, smietnik, othlan, smieci, rubbish, trash]
+  otchlanadm:
+      description: Wymuszenie otwarcia sie otchlani.

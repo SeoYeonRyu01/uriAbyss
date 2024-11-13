@@ -1,0 +1,25 @@
+# UriAbyss v1 by SeoYeonRyu
+
+# Dostepne znaki: {>}, {.}, {<3}, {X}, {Y}, {:>}, {:<}, {::>}
+
+Abyss:
+  # Nazwa Otchlani w /Otchlan
+  Name: "&6&lOtchlan"
+  Opened: "&8{>} &7Otchlan otworzyla sie! Aby otworzyc otchlan wpisz &6/Otchlan&7."
+  Closed: "&8{>} &7Otchlan zamknela sie, pozerajac wszystkie itemy w niej."
+  Cleared: "&8{>} &7Otchlan pozarla &6{ITEMS}&7 itemow! Otchlan otworzy sie za: &6Minute."
+  IsClosed: "&cBlad: &7Otchlan jest aktualnie zamknieta!"
+  OnlyPlayer: "&cBlad: &7Tylko gracz moze uzyc tej komendy!"
+  Permission: "abyss.admin"
+  NoPermission: "&cBlad: &7Nie masz praw do tej komendy."
+
+  # SEKUNDY!
+  # Na ile otchlan ma byc otwarta
+  TimeOpened: 60
+  # za ile czasu od komunikatu o wyczyszczeniu itemow ma sie otchlan otworzyc.
+  TimeToOpen: 60
+  # Co ile otchlan ma wyczyscic itemy
+  # UWAGA: Otchlan po wyczyszczeniu itemow otworzy sie minute pozniej!!!
+  Cooldown: 300
+
+# UriAbyss v1 by SeoYeonRyu
